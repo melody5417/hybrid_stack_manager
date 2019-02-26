@@ -7,7 +7,7 @@
 //
 
 #import "FlutterViewWrapperController.h"
-#import <Flutter/FlutterChannels.h>
+#import <Flutter/Flutter/FlutterChannels.h>
 #import "HybridStackManager.h"
 
 typedef NS_ENUM(NSInteger,FlutterVCSwitchCategory){

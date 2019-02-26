@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <Flutter/Flutter.h>
+#import <Flutter/Flutter/Flutter.h>
 #import "FlutterViewWrapperController.h"
 
 @interface XFlutterModule : NSObject

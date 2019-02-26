@@ -1,4 +1,4 @@
-#import <Flutter/Flutter.h>
+#import <Flutter/Flutter/Flutter.h>
 
 @interface HybridStackManager : NSObject<FlutterPlugin>
 + (instancetype)sharedInstance;
